@@ -1,4 +1,8 @@
-  0.4.0
+  0.4.0-pre2
+  - mongoid defaults to being embedded
+  - new :auto_login option in oauth_config.rb which lets you use eg. twitter as a primary authentication method
+11/15/2010
+  0.4.0-pre1
 	- mongoid support in rails 3 [Alexander Semyonov]
 	- OAUTH 2.0 authorization_code and password grant types
 	- Supports OAuth 2.0 draft 10 (Note this is incompatible with previous drafts)
